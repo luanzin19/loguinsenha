@@ -1,0 +1,44 @@
+*{
+
+background:black;
+
+
+}
+
+.login{
+color: white;
+position: absolute;
+margin-top: 15px ;
+margin-left: 560px;
+background:black;
+}
+.senha{
+color: white;
+position: absolute;
+margin-top: 80px ;
+margin-left: 560px;
+background: black;
+}
+.botao{
+
+color: black;
+background: white;
+position: absolute;
+margin-top: 110px;
+margin-left: 620px;
+padding: 10px;
+border-radius: 30px;
+background: red;
+}
+.l{
+color: rgb(151, 5, 209);
+position: center;
+margin-top: 80px;
+margin-left: 605px;
+}
+.s{
+color: rgb(141, 0, 197);
+position: absolute;
+margin-top: 40px;
+margin-left: 605px;
+}
